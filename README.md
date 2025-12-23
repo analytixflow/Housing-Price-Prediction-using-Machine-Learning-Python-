@@ -1,4 +1,4 @@
-# 🏠 Housing-Price-Prediction-using-Machine-Learning-Python-
+# 🏠 Housing-Price-Prediction-using-Machine-Learning-Python
 ## 🎯 Project Overview
 The Housing Price Prediction project aims to predict house prices based on various features such as location, size, number of rooms, and other property attributes.
 The model helps estimate market value using historical housing data and machine learning algorithms.
