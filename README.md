@@ -20,3 +20,4 @@ The model helps estimate market value using historical housing data and machine 
 - Sale Price (Target Variable)
 
 ### 🤖 Code
+- <a href= "https://github.com/analytixflow/Housing-Price-Prediction-using-Machine-Learning-Python-/blob/main/house%20prediction.ipynb">Python Code</a>
